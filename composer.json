@@ -1,0 +1,17 @@
+{
+    "autoload": {
+        "psr-0": {
+            "": "src/"
+        }
+    },
+    "name": "root/empty",
+    "require": {
+        "phpunit/phpunit": "^5.7"
+    },
+    "authors": [
+        {
+            "name": "Jeffrey",
+            "email": "jeffrey@nbwm.nl"
+        }
+    ]
+}
